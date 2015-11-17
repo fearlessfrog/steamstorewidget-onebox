@@ -1,3 +1,8 @@
+# name: Store Store Widget Onebox
+# about: Simple Steam Store display box for Discourse
+# version: 0.1
+# authors: fearlessfrog
+# url: https://github.com/fearlessfrog/steamstorewidget-onebox
 
 Onebox = Onebox
 
