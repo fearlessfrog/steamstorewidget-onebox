@@ -1,3 +1,6 @@
+
+Onebox = Onebox
+
 module Onebox
   module Engine
     class SteamStoreWidgetOnebox
