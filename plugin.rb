@@ -15,7 +15,7 @@ module Onebox
 
       def to_html
         # Use the Steam support iframe widget
-        widget_url = @url.gsub('/app/','/widget/')
+        widget_url = @url.gsub('\/app\/','\/widget\/')
         
         "<iframe src='#{widget_url}' frameborder='0' width='646'' height='190'></iframe>"
       rescue
