@@ -11,7 +11,7 @@ module Onebox
     class SteamStoreWidgetOnebox
       include Engine
       
-      matches_regexp(/^(http?:\/\/)?([\da-z\.-]+)(steampowered.com\/)(.)+\/?$/)
+      matches_regexp(/^(https?:\/\/)?([\da-z\.-]+)(steampowered.com\/)(.)+\/?$/)
 
       def to_html
         # Use the Steam support iframe widget over https
