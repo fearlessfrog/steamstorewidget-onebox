@@ -3,6 +3,10 @@ Simple Steam Store Widget as a Discourse plugin
 Intro and discussion here:
 https://meta.discourse.org/t/steam-store-onebox-plugin/35723
 
+Note: Functionality is now included as part of base Discourse/Onebox gem here:
+
+https://github.com/discourse/onebox
+
 ## Installation
 
 As seen in a [how-to on meta.discourse.org](https://meta.discourse.org/t/advanced-troubleshooting-with-docker/15927#Example:%20Install%20a%20plugin), simply **add the plugin's repo url to your container's app.yml file**:
